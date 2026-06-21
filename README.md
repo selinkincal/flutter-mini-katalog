@@ -17,11 +17,11 @@ Bu proje kapsamında dışarıdan hiçbir üçüncü parti State Management pake
 
 | Keşfet (Ana Sayfa) | Ürün Detay | Ürün Detay  |
 | :---: | :---: | :---: |
-| <img src="./screenshots/home.png" width="250"/> | <img src="./screenshots/detail.png" width="250"/> | <img src="./screenshots/detail1.png" width="250"/> |
+| <img src="./screenshots/home.jpeg" width="250"/> | <img src="./screenshots/detail.jpeg" width="250"/> | <img src="./screenshots/detail1.jpeg" width="250"/> |
 | **Favoriler** | **Arama Sonuçları** | **Boş Durum (Empty State)** |
-| <img src="./screenshots/favorı.png" width="250"/> | <img src="./screenshots/homelist.png" width="250"/> | <img src="./screenshots/favorıbos.png" width="250"/> |
+| <img src="./screenshots/favorı.jpeg" width="250"/> | <img src="./screenshots/homelist.jpeg" width="250"/> | <img src="./screenshots/favorıbos.jpeg" width="250"/> |
 | **Sepetim** | **Sepet Onay** | **Boş Durum (Empty State)** |
-| <img src="./screenshots/sepet1.png" width="250"/> | <img src="./screenshots/sepet.png" width="250"/> | <img src="./screenshots/sepetbos.png" width="250"/> |
+| <img src="./screenshots/sepet1.jpeg" width="250"/> | <img src="./screenshots/sepet.jpeg" width="250"/> | <img src="./screenshots/sepetbos.jpeg" width="250"/> |
 
 ## 🛠️ Kullanılan Teknolojiler
 * **SDK:** Flutter
@@ -34,4 +34,4 @@ Projeyi kendi bilgisayarınızda (Android Studio Emulator veya VS Code üzerinde
 
 **1. Projeyi Klonlayın:**
 ```bash
-git clone [https://github.com/KULLANICI_ADIN/mini_katalog.git](https://github.com/KULLANICI_ADIN/mini_katalog.git)
+git clone [(https://github.com/selinkincal/flutter-mini-katalog.git)]
