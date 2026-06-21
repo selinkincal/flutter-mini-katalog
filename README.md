@@ -12,7 +12,6 @@ Bu proje kapsamında dışarıdan hiçbir üçüncü parti State Management pake
 - **Gelişmiş UI Yapıları:** `GridView.builder` ve `ListView.builder` ile dinamik liste yönetimleri.
 - **State Simülasyonu:** `setState` kullanılarak sepet ve favori listelerinin eşzamanlı güncellenmesi.
 
-> |
 ## 📸 Ekran Görüntüleri
 
 | Keşfet (Ana Sayfa) | Ürün Detay | Ürün Detay  |
@@ -34,4 +33,4 @@ Projeyi kendi bilgisayarınızda (Android Studio Emulator veya VS Code üzerinde
 
 **1. Projeyi Klonlayın:**
 ```bash
-git clone [(https://github.com/selinkincal/flutter-mini-katalog.git)]
+git clone [https://github.com/selinkincal/flutter-mini-katalog.git](https://github.com/selinkincal/flutter-mini-katalog.git)
